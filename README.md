@@ -1,2 +1,2 @@
 # ExerciciosnoIDE
-Exercícios realizados no IDE Eclipse 2020. Ainda em aprendizagem e teste! // Laços Condicionais e Laços de Repetição. //
+:file_folder: :bookmark_tabs: Exercícios realizados no IDE Eclipse 2020. Ainda em aprendizagem e teste! 
